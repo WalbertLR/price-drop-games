@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="price_drop_games.API/price_drop_games.API.csproj" />
+  <Project Path="price_drop_games.Application/price_drop_games.Application.csproj" />
+  <Project Path="price_drop_games.Domain/price_drop_games.Domain.csproj" />
+  <Project Path="price_drop_games.Infrastructure/price_drop_games.Infrastructure.csproj" />
+</Solution>

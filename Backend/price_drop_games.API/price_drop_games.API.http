@@ -1,0 +1,6 @@
+@price_drop_games.API_HostAddress = http://localhost:5088
+
+GET {{price_drop_games.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
